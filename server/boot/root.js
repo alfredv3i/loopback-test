@@ -7,6 +7,14 @@ module.exports = function(server) {
   // hd
   // hd
   // bdhd
+  // dfg
+  // dfg
+  // dfg
+  // dfg
+  // dfg
+  // asdas
+  // dasdas
+  // dad
   // hdgr
   var router = server.loopback.Router();
   router.get('/', server.loopback.status());
