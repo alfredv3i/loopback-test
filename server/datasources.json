@@ -1,0 +1,12 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "rest": {
+    "name": "rest",
+    "baseURL": "http://localhost:3000",
+    "crud": true,
+    "connector": "rest"
+  }
+}
